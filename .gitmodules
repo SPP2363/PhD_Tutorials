@@ -1,3 +1,6 @@
 [submodule "01_2026_llm_agent_chemistry"]
 	path = 01_2026_llm_agent_chemistry
 	url = https://github.com/SPP2363/01_2026_llm_agent_chemistry.git
+[submodule "06_xAI_in_chemistry"]
+	path = 06_xAI_in_chemistry
+	url = https://github.com/SPP2363/06_xAI_in_chemistry.git
